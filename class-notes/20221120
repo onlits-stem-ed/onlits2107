@@ -1,0 +1,23 @@
+
+	Aggregation is derived for the term aggregate (sum, total).
+	
+	ER-Model				-		Diagrams
+	Relational Model		-		Relations/Table
+	
+	Hierarchical
+	Network (CODASYL)
+	ER-Model
+	Relational
+	Object-Relational
+	Associative
+	Object-Oriented
+	
+	Relationship Types	-	name of the relationship
+	Relationship Set	-	collection of all the relationship between
+							two entities at a given time.
+							
+	Instance
+	
+	Jargon
+	
+	Rollno Name Class Year

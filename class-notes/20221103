@@ -1,0 +1,11 @@
+
+	sql = "SELECT * FROM user";
+	
+	insert()
+	
+	PDO - 12 types of databases
+	
+	Collection Framework
+	
+	composer create-project
+	laravel new

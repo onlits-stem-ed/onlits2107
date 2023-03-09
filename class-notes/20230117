@@ -1,0 +1,91 @@
+
+	5! = 5 * 4!
+	4! = 4 * 3!
+	
+	n! = n * (n-1)!
+	
+	1 + 2 +  3 + 4 + 5
+	
+	n + sum(
+	
+	#define MAX 5
+	
+	struct personal
+	{
+		char name[50];
+		int age;
+		float salary;
+	};
+	
+	int main(void)
+	{
+		struct personal p[5];
+		
+		for(int i=0; i<MAX; i++)
+		{
+			printf("Enter name: ");
+			scanf("%[^\n]", name);
+			printf("Enter age: ");
+			scanf("%d", &age);
+			printf("Enter salary: ");
+			scanf("%f%*c", &salary);
+		}
+	}
+	
+	
+	typedef struct complex
+	{
+		float real;
+		float imaginary;
+	} COMPLEX;
+	
+	int main(void)
+	{
+		COMPLEX c1, c2, c3;
+		read(&c1);	
+		read(&c2);		
+		c3 = add(c1, c2);
+		display(c3);
+		return 0;
+	}
+	
+	void read(COMPLEX *c)
+	{
+		scanf("%f", &c->real);
+		scanf("%f", &c->imaginary);
+	}
+	
+	COMPLEX add(COMPLEX c1, COMPLEX c2)
+	{
+		COMPLEX s;
+		s.real = c1.real + c2.real;
+		s.imaginary = c1.imaginary + c2.imaginary;
+		return s;
+	}
+	
+	void display(COMPLEX c)
+	{
+		printf("real: %f, imaginary: %f", c.real, c.imaginary);
+	}
+	
+	
+	
+	#define ADD(A, B) A + B		//Macro Substitution
+	#undef ADD
+	
+	int main(void)
+	{
+		int a=10, b=20, c;
+		c = ADD(a, b);
+		printf("The sum is %d");
+		printf();
+	}
+	
+	
+	RAM
+	
+	CPU
+	
+	inline function
+	
+	

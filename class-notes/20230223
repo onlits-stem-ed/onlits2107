@@ -1,0 +1,43 @@
+
+	Slambook
+		Pages
+		1 page contains details of one friend
+			Each page has questions
+			Each question will have answer(s)
+			
+			
+	Questions
+		Questions_id	Question
+		
+	Slambook
+		friend_id	name	and other non-repeating details
+		
+		slambook_hobbies
+			id
+			friend_id (fk)
+			hobby
+			
+		Same treatment for other (multi-valued) repeating attributes
+		
+------------------------------------------------------------------------
+
+	NPTEL	-	Software Engineering - Rajiv Mall
+	
+	Try and Fail
+	
+	Non-Engineering Approach
+		Waterfall
+		
+	RESTapi	-	Api Key
+	
+	App to test API (POSTMAN)
+		
+		What's New
+	
+	Canonical
+	
+	Oracle Java EE
+	Eclipse Jakarta EE
+	
+	
+	

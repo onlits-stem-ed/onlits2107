@@ -1,0 +1,66 @@
+
+	New features
+	
+	Existing System
+	Proposed System
+	
+	FOSS
+	Availability
+	
+	vpn
+	
+	amazon
+	big basket
+	milk basket
+	
+	Orkut	-	Text
+	Facebook	-	Text + Pics
+	Instagram	-	Pics
+	
+	School
+	
+	- Interviews/Questionnaire
+	- Onsite Observation
+	- Literature review
+	
+	slam_book
+		friends
+			id
+			name
+			gender
+			dob
+			address
+			favourite_food
+			
+	IT	-	Job
+	
+	Original Program
+	
+	
+	Characteristics of a good program:
+		- Efficient
+		- Robust
+		- Scalable
+		- Testable
+	
+	
+	void add()	//Not Testable 
+	{
+	
+	}
+	
+	int add(int a, int b)	//Testable
+	{
+		return a - b;
+	}
+	
+	
+	if(add(10, 20) == 30)	//Assertion
+	{
+		echo "Test passed!";
+	}
+	
+	
+	xUnit -> JUnit, PHPUnit, xUnit.net
+	
+	

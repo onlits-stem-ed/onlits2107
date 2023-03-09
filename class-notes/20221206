@@ -1,0 +1,28 @@
+
+	Shell Script
+	Batch Programming
+	
+	Table
+		->	user
+		-> 	resume
+		
+		
+		Name	-	Composite Attribute	-	(fname, mname, lname)
+		Objective	-	Simple and Single valued	- (string)
+		
+		
+		
+		
+		Experience - Complex Attributes (Composite + multivalued)
+			Designation
+			Term
+			Organisation
+			Key responsibilities
+			
+		Qualification
+			Name
+			Board/University
+			Year
+			%/Grade
+			
+		Skills

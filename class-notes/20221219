@@ -1,0 +1,25 @@
+
+	CRUD operations
+	
+	REST API (HTTP methods)
+	
+	Java
+	C
+	
+	A	-	Atomicity
+	C	-	Consistency
+	I	-	Isolation
+	D	-	Durability
+	
+	Transaction
+	
+	What is view? What are the benefits of using view?
+	
+	GET
+	POST
+	PUT
+	DELETE
+	PATCH
+	HEAD
+	
+	Idempotent

@@ -1,0 +1,23 @@
+
+	1. Display
+	2. Insert
+	3. Delete
+	
+	WAP to generate a menu dynamically.
+	
+	WAP to accept a linear equation in 1 variable and find its root.
+	
+	2x + 3 = 8	-> Input
+	
+	x = 5/2
+	
+	WAP to accept a linear equation and print its degree.
+	
+	generateMenu()
+	
+	php artisan make:model Resume -mc
+	
+	create_resumes_table
+	ResumeController
+	
+	DRDO	-	Scientific Research

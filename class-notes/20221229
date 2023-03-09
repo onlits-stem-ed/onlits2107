@@ -1,0 +1,36 @@
+
+	class MethodAsMethodArgument {
+		void method(String m) {
+		
+		}
+		
+		public static void main(String[] args) {
+			method(System.out.println("Hello"));	
+		}
+	}
+	
+	Lambda Expressions
+	
+	::
+	
+	
+	
+	Is the above scenario possible (Yes/No): 
+	
+	
+	class MethodAcceptingSqrt {
+	
+		void squareRoot(double sqrt) {
+			System.out.println(sqrt);
+		}
+		
+		public static void main(String[] args) {
+			squareRoot(Math.sqrt(5));
+		}
+	}
+	
+	
+	Function is also known as derived data type.
+	
+	
+	function pointer

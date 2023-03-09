@@ -1,0 +1,73 @@
+
+	program - A sequence of instructions to carry out a defined task.
+	
+	Software Engineering
+		- Rajiv Mall
+		
+		
+	Toy project	-	Projects created by students for academic purposes
+	
+	
+	packages
+	
+	authentication
+	
+	composer require onlits/pramanit
+	
+	composer create-project laravel/laravel test-project 
+	
+	composer require laravel/ui
+	
+	
+	Addition
+	
+	simple
+	decision
+	iteration
+	array
+	array/matrix
+	generics
+	collection
+	
+	source file	(.java)
+	--------------------
+	bytecode	(.class)
+	
+	system("gcc hello.c");
+	
+	
+	class/interface name	=	PascalCase
+	method/feild			=	camelCase
+	package					=	lowercase
+	constant				=	UPPERCASE
+	
+	
+	system.out.print()
+	
+	Scanner scanner = new Scanner();
+	
+	
+	InputStreamReader
+	BufferedReader
+	
+	
+	onlits.com
+	
+	com.onlits
+	
+	org.mysql.jdbc
+	org.mariadb.jdbc
+	
+	int main(void)
+	{
+	
+		return 0;
+	}
+	
+	void main() {
+	
+	}
+	
+	
+	
+	

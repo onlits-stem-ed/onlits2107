@@ -1,0 +1,28 @@
+
+	class singleton
+	{
+		private:
+			static singleton *instance = NULL;
+			singleton() {}		//disable object create
+		public:
+			static singleton getInstance()
+			{
+				if(instance == NULL)
+				{
+					instance = new singleton();
+				}
+				
+				return instance;
+			}
+	}
+	
+	int main()
+	{
+		singleton s;		//error
+		singleton *sp = singleton::getInstance();
+		singleton *sq = singleton::getInstance();
+	}
+	
+	Simple
+	Composite
+	Compound Attributes

@@ -1,0 +1,46 @@
+
+	int main(void)
+	{
+		//base case
+		//exit() or return
+		int main();
+	}
+	
+	
+	int main(void)
+	{
+		santosh();
+	}
+	
+	void santosh() = main()
+	{
+		main();
+	}
+	
+	.a 
+	
+	
+	void fun(void);
+	
+	void fun();
+	
+	2-D
+		- Matrix
+		- Array of Strings
+		
+		
+	2-Dimensional
+	
+	rows and columns
+	
+	5 students - same class
+	
+	Array is a set of similar items.
+	
+	class	-	int
+	marks	-	int
+	
+	
+	Roll No		Name 	DOB		Hostel_Id	Hostel_Name
+	
+	

@@ -1,0 +1,57 @@
+
+	Components
+	
+	var a;
+	
+	Java 10
+	
+	Bulk SMS providers
+	
+	reserved words and keyword
+	
+	
+	int var;
+	
+	
+	var a=10, b=20, c;
+	
+	c = a + b;
+	
+	var in = 10;
+	var str = "Bihar";
+	
+	in++;
+	System.out.println("The value of in is " + in);
+	
+	System.out.println("The length of " + str + " is " + str.length());
+	
+	
+	Dynamic Typing
+	
+	var a;
+	let b;	//ES6
+	const c = 10;
+	
+	
+	function fun() {
+		for() {
+			var a;
+		}
+		a = 20;
+	}
+	
+	a = 10;
+	
+	
+	
+	Scanner scanner = new Scanner(System.in);
+	var scanner = new Scanner(System.in);
+	
+	BufferedReader buffer = new BufferedReader();
+	var buffer = new BufferedReader();
+	
+	
+	Connection connection = DriverManager.getConnection();
+	var connection = DriverManager.getConnection();
+	
+	
