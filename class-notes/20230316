@@ -1,0 +1,67 @@
+
+	Array ro linked-list
+	
+	
+	
+	Linear structures:
+		Array		-	Fixed
+		Linked  List-	Flexible
+		
+		
+		int arr[0]
+		
+		arr[0] - 0x10 + 0 x 4	=	0x10
+		arr[1] - 0x10 + 1 x 4	=	0x14
+		
+	
+	Stack and Queue are list with limited operations
+	
+		Array representation of stack/queue
+		Linked-list representation of stack/queue
+		
+	
+	Stack is used mostly in such situations where recursion is used.
+	Queue is used mostly used in situation solved in sequence.
+	
+	
+	#define MAX 100
+	
+	int stack[MAX]
+	int *top = -1;
+	
+	f = 5 x 4 x 3 x 2 x 1
+	f = 1 x 2 x 3 x 4 x 5
+	
+	
+	c = (a + b)
+	=c+ab
+	cab+=
+	
+	
+	ADD AX, BX
+	
+	add(10, 20)
+	
+	Rocket Boys
+	
+	Convert infix to postfix
+	Evaluate postfix
+	
+	5 + 6 + 7 + 9
+	
+	char expression[10];
+	printf("Enter an expression to evaluate: ");
+	scanf("%[^\n]", expression);
+	
+	\0
+	
+	--, ++, -
+	?:
+	
+	
+	
+	
+	
+	
+	
+	

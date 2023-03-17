@@ -1,0 +1,47 @@
+
+ int main(void)
+ {
+ 
+ }
+ 
+ int main() {
+ 
+ }
+ 
+ 
+ 	+AB	=	prefix
+ 	AB+	=	postfix
+ 	A+B =	infix
+ 	
+ 	A + B
+ 	
+ 	input		stack operation		status
+ 	
+ 	A								Empty
+ 	
+ 	
+ 	(a + b)
+ 	
+ 	Slam book
+ 	Book sharing
+ 	
+ 	package manager
+ 	
+ 	composer
+ 	
+ 	1. Program to find factors of a number.
+ 	2. Function to return factors of a number. (Apply unit testing)
+ 	3. Program to find prime factors of a number.
+ 	4. Program to accept a number and list of its factors and verify
+ 	   that the list actually contains the factors of the given number. 
+ 	5. Program to verify the "Fundamental Theorem of Arithmetic".   
+ 	   
+ 	   10	-	1, 2, 5, 10
+ 	   
+ 	   10 = 2 * 5
+ 	   
+	   20 = 1, 2, 4, 5, 10, 20
+	   20 = 2 * 2 * 5
+
+ 	   4		{1, 2, 3, 4}
+ 	

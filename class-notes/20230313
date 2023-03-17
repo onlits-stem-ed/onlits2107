@@ -1,0 +1,26 @@
+	
+	OOAD
+
+	Unified Modeling Language
+	
+	IS-A		-	Generalization
+	Part-Of		-	Composition
+	Has-A		-	Association + Aggregation
+	
+	
+	
+	Ciaz is a Car	-	Generalization
+	Car has a CNG Kit	-	Assoc/Aggreg
+	
+	Engine is part of car	-	Composition
+	
+	Dynamic Binding
+	Message Passing
+	
+	student	-	santosh
+				raju
+				
+	REST	-	
+	
+	
+	ChatGPT
