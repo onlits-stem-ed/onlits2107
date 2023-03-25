@@ -1,0 +1,13 @@
+
+	create user
+	read user
+	update user
+	delete user
+	
+	Entity
+		User
+		Role
+		
+	KISS
+	DRY
+	YAGNI

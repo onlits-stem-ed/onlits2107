@@ -17,18 +17,8 @@
   "RootNamespace": "SRSCreator",
   "Documents": [
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -37,13 +27,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
