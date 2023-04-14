@@ -1,0 +1,63 @@
+
+	Recursion:
+		It is process in which a function calls itself.
+		
+	Two types of statements:
+		1. Base Case
+		2. Recusive Case
+	
+	int factorial(int n) {
+		
+	}
+	
+	O(1^n)	=	O(n)
+	
+	How to find the complexity of a recursive function?
+	
+	number of calls raised to the power n.
+	
+	O(c^n)
+	
+	Which type of problems should be solved using recursion?
+	
+	5! = 5 x 4!
+	4! = 4 x 3!
+	
+	
+	n! = n * (n-1)!
+	
+	
+	KISS:	Keep it Simple Stupid.
+	
+	DRY:	Don't Repeat Yourself.
+	
+	YAGNI:	You Aren't Gonna Need It.
+	
+	
+	Time Complexity
+	
+	O(1)		-	Excellent
+	O(log n)	-	Good
+	O(n)		-	Fair
+	O(n log n)	-	Bad
+	O(n^2) and more	-	Horrible
+	
+	Loop
+	If-Else
+	Array
+	Stack
+	Queue
+	Tree
+	Graph
+	
+	Fibonacci Series
+	
+	0, 1, n
+	
+	O(n)
+	O(2^n)
+	
+	Recursion Tree
+	
+	
+	

@@ -1,0 +1,40 @@
+
+	public static void main(String[] args)
+	
+	
+	
+	
+	java Example
+	
+	
+	Example.main();
+	
+	
+	int main(void)
+	{
+	
+	}
+	
+	int main(int argc, char* argv[])
+	{
+	
+	}
+	
+	
+	
+	void test(void);
+	
+	void test();
+	
+	Tree is a non-linear data structure.
+	
+	int f(n)
+	{
+		return f(n-2) + f(n-1)
+	}
+	
+	2 + 3
+	
+	
+	
+	
