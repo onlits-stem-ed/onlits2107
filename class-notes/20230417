@@ -1,0 +1,23 @@
+
+	int fibonacci(int n)
+	{
+		if(n==0)
+			return 0;
+		else if(n==1)
+			return 1;
+			
+		return fibonacci(n-2) + fibonacci(n-1);
+	}
+	
+	0, 1, 1, 2, 3, 5, 8, ...
+	
+	MAANG: Meta Apple Amazon Netflix Goolge
+	
+	Whiteboard Coding
+	
+	
+	Implement binary search without/with recursion. Draw the
+	recursion tree for the recursive algorithm. Also find the
+	time complexity of both the algorithms.
+	
+	Merge Sort
