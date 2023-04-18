@@ -17,13 +17,23 @@
   "RootNamespace": "ResumeCreator",
   "Documents": [
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -39,16 +49,6 @@
     {
       "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/ResumeCreator/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -1,0 +1,25 @@
+
+	Properties of a recursive function:
+		- A recursive has two types of statements
+		- First one ore more base case
+		- Second one or more recursive case
+		- It takes up extra memory space
+		
+	Iteration vs recursive 
+	
+	Properties of a recursive function: (S. Lipsutz)
+		- There must be certain criteria, called base criteria, for
+		   which the procedure does not call iteself.
+		- Each time the procedure calls itself (directly or indirectly),
+		  it must be closer to the base criteria.
+		  
+		  
+	if n==1, return 1;
+	
+	5! = 5 * 4!
+	4! = 4 * 3!
+	
+	A recursive function with these two properties is said to be
+	well-defined.
+	
+	
