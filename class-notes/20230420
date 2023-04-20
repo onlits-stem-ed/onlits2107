@@ -1,0 +1,55 @@
+
+	- Discuss at the algorithm/flowchart level
+	
+	
+	Merge Sort
+	
+	Refactoring	-	DRY
+	
+	
+	
+	1. Find mid of the array.
+	2. Check if the element to searched is at mid or not.
+	3. if search value is less than mid high = mid-1 else
+	   low = mid+1
+	4. Repeat step 2 and 3 until element is found or high==low.
+	
+	
+	Recursion thought process:
+		- Determine where the solution can be solved by applying
+		  solution to itself.
+		- Determine base case
+		- Determine recursive call/case
+	5! = 5 x 4!
+		
+	
+	search()
+	{
+		search();
+	}
+	
+	WAP to display your name 5 times using recursion.
+	
+	
+	for(int i=1; i<=n; i++)
+	{
+		printf("Santosh Kumar");
+	}
+	
+	
+	int print_name(int n)
+	{
+		if(n==0)
+			return 0;
+	
+		printf("Santosh Kumar");
+		print_name(n-1);
+		return n;
+	}
+	
+	Every iterative solution can be solved by recursive approach.
+	
+	WAP to accept an integer and display its multiplication table
+	using recursion.
+	
+	WAP to sort an array using bubble sort in recursive approach.
