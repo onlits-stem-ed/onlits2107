@@ -22,8 +22,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -32,8 +32,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -42,8 +42,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "/home/manish/batches/onlits2107/DotNet/MVC/SRSCreator/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {

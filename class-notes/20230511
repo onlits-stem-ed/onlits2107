@@ -1,0 +1,63 @@
+
+	Javascript: 
+	
+	JSON: JavaScript Object Notation
+	
+	DOM: Document Object Model
+	
+	document object
+	
+	<p>Content</p>
+	
+	<img src="">
+	
+	ECMA Script
+	
+	ES6 - JS
+	
+	Open JDK
+	
+	Imperative
+	
+	Event-Driven Model
+	
+	
+	Class = Properties (data) + Behavior (method)
+	
+	
+	The rise of A.I.
+	
+	render
+	
+	separation of concern
+	
+	NLP
+	
+	Meta-Language
+	
+	DTD
+	
+	XML	-	Extensible Markup Language
+	
+	<table> element is found in html and we can define it in xml
+	but, <chair> element is not found in html and moreover we cannot
+	define it in html whereas <chair> element can be defined in xml.
+	
+	
+		<?xml version="1.0">
+		<student>
+			<name>Raju Kumar</name>
+			<roll_no>1</roll_no>
+		</student>
+		
+		
+	student {
+		"name": "Raju Kumar",
+		"roll_no": 1
+	}
+		
+	
+	Well-formed	=	grammatically correct
+	Valid		=	follows a schema/dtd
+	 
+	

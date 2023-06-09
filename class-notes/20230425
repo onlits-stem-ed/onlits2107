@@ -1,0 +1,36 @@
+
+ Array is implement as a feature in most programming languages.
+ 
+ Implementation Method:
+ 	Linked List
+ 		Array
+ 		Dynamic (Reference type)
+ 		
+ 	Stack
+ 		Array
+ 		Linked List
+ 		ADT	-	Abstract Data Type
+ 		
+ 		a[0]	=	0x445e + 0 X dt bytes
+ 		a[1]	=	0x445e + 1 X dt bytes
+ 		
+ 		
+ 	C++	-	STL	
+ 	
+ 	
+ 	Why do we use indexing in database?
+ 		- Fast retrieval
+ 		
+ 		- By default database is indexed using PK.
+ 		
+ 		id
+ 		
+ 	Email and/or Phone
+ 	
+ 	ArrayList<Integer> list = new ArrayList<Integer>();
+ 	
+ 	List<Integer> list = new ArrayList<Integer>();
+ 	
+ 	var list = new ArrayList<Integer>();
+ 	
+ 	

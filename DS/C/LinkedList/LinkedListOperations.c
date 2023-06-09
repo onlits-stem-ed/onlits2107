@@ -3,94 +3,80 @@
 
 typedef struct node
 {
-    int info;
+    int data;
     struct node *next;
 } NODE;
 
-void printlist();
-void insert();
-void delete ();
+NODE *head = NULL;
 
-NODE *first = NULL; // global first pointer
+void create();
+void traverse();
 
-int main()
+int main(void)
 {
     int ch;
-    printf("\nmain(): %p\n", first);
-    while (1) // infinite loop
+    while (1)
     {
         printf("MAIN MENU\n");
-        printf("1. Print List\n");
-        printf("2. Insert node\n");
-        printf("3. Delete node\n");
+        printf("1. Display\n");
+        printf("2. Insert\n");
         printf("Enter choice (0 to exit): ");
         scanf("%d", &ch);
         switch (ch)
         {
         case 0:
-            printf("\nBye\n\n");
             exit(0);
             break;
         case 1:
-            printlist();
+            traverse();
             break;
         case 2:
-            insert();
-            break;
-        case 3:
-            delete ();
+            create();
             break;
         default:
-            printf("\nInvalid option.\n\n");
+            printf("\nInvalid option!\n\n");
         }
     }
     return 0;
 }
 
-void printlist()
+void create()
 {
-    NODE *current = first;
-    if (current == NULL) // Checking whether list is empty
+    if (head == NULL)
     {
-        printf("\nList is empty, nothing to print.\n\n");
+        head = (NODE *)malloc(sizeof(NODE));
+        printf("\nEnter a value: ");
+        scanf("%d", &head->data);
+        head->next = NULL;
+        printf("\nNode Created!\n\n");
         return;
     }
 
-    printf("\nPrinting list ...\n\n");
-    do
-    {
-        printf("%d\n", current->info);
-        current = current->next;
-    } while (current != NULL);
-    printf("\nEnd of list.\n\n");
+    NODE *itr = head;
+    while (itr->next != NULL)
+        itr = itr->next;
+
+    itr->next = (NODE *)malloc(sizeof(NODE));
+    printf("\nEnter a value: ");
+    scanf("%d", &itr->next->data);
+    itr->next->next = NULL;
+    printf("\nNode Created!\n\n");
 }
 
-void insert()
+void traverse()
 {
-    NODE *current = first;
-    printf("\nEnter value: ");
-    if (current == NULL) // code for first node
+    if (head == NULL)
     {
-        first = current = malloc(sizeof(NODE));
-        scanf("%d", &current->info);
-        current->next = NULL;
-        printf("\nNode added\n\n");
+        printf("\nList empty. Nothing to display!\n\n");
         return;
     }
 
-    while (current->next != NULL)      //locating the last node
+    NODE *itr = head;
+    while (1)
     {
-        current = current->next;
+        printf("%d\n", itr->data);
+        if (itr->next == NULL)
+            break;
+        itr = itr->next;
     }
-
-    current->next = malloc(sizeof(NODE));
-    current = current->next;
-    scanf("%d", &current->info);
-    current->next = NULL;
-    printf("\nNode added\n\n");
-}
-
-void delete ()
-{
-    
 }

@@ -1,0 +1,41 @@
+
+	Tree: 
+	
+	Degree of a node: 
+	
+	- Pointer/Linked representation (Natural Representation)
+	- Array representation
+	
+	
+	S. Lipsutz
+	
+	Current CTC:
+	
+	Expected CTC:
+	
+	struct node *root;
+	
+	NODE *root;
+	
+	FILE *fp;
+	
+	insert (NODE *parent, int side)
+	
+	typedef struct node NODE;
+	
+	cout	-	ostream
+	
+	cin >> n;
+	
+	cin.get(n);
+	
+	GNU = GNU is not Unix
+	
+	cstdio
+	
+	sum.c++
+	
+	sum.cxx
+	
+	
+	
