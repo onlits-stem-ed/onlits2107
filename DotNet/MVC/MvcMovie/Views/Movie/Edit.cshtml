@@ -1,0 +1,26 @@
+@model Movie
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Edit Movie</h1>
+    <form method="post">
+        <label asp-for="Id" class="form-label"></label>
+        <input type="text" asp-for="Id" readonly required class="form-control">
+        <label asp-for="Title" class="form-label mt-2"></label>
+        <input type="text" asp-for="Title" class="form-control" required>
+        <label asp-for="ReleaseDate" class="form-label mt-2"></label>
+        <input type="date" asp-for="ReleaseDate" class="form-control" required>
+        <label asp-for="Genre" class="form-label mt-2"></label>
+        <input type="text" asp-for="Genre" class="form-control" required>
+        <label asp-for="Price" class="form-label mt-2"></label>
+        <input type="text" asp-for="Price" class="form-control" required>
+        <button class="btn btn-primary mt-2">Submit</button>
+    </form>
+</body>
+</html>
